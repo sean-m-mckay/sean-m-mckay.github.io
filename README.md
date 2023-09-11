@@ -1,1 +1,0 @@
-# sean-m-mckay.github.io
