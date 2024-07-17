@@ -5,7 +5,7 @@ about:
   template: solana
   image-width: 20em
   image-shape: round
-  image: /img/portrait.jpg
+  image: img/portrait.jpg
 
 ---
 

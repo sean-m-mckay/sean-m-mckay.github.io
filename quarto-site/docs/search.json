@@ -4,7 +4,7 @@
     "href": "pages/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Python Dashboard\nA Dash dashboard that explores trends in TB Incidence and Mortality across different countries (page may take a while to load)\n\nApril, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReact App\nA react app that allowed easier booking of Skating rink reservations in Toronto during COVID.\n\nApril, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAndroid App\nAn android app that provides geolocation and automatic classification of campus maintenance issues More details on : https://ecce.esri.ca/mac-blog/2019/07/03/pinpointr/\n\nFeb, 2024"
+    "text": "Python Dashboard\nA Dash dashboard that explores trends in TB Incidence and Mortality across different countries (page may take a while to load)\n\nApril, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nMedium Article\nA network analysis of the trails in Pacific Spirit Park in order to produce a minimum distance path covering all trails in the park.\n\nMay, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project\nA Reproducible Pipeline for Particle Classification using MLFlow and Hydra to analyze data from the RICH detector. Created for TRIUMF’s partnership with CERN as part of NA62\n\nMay, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReact App\nA react app that allowed easier booking of Skating rink reservations in Toronto during COVID.\n\nApril, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAndroid App\nAn android app that provides geolocation and automatic classification of campus maintenance issues. More details here\n\nJuly, 2019"
   },
   {
     "objectID": "index.html",
@@ -18,7 +18,7 @@
     "href": "pages/about.html",
     "title": "Whoami",
     "section": "",
-    "text": "Intro : TODO"
+    "text": "Intro : My undergraduate experience gave me a good understanding of the software development lifecycle and an appreciation for beautifully written code. Working in the financial industry for Citi I further developed these skills and realized my ability to build and scale enterprise applications. I then moved to Northern Labs, as an opportunity to work for a smaller company with less bureacracy and spend more time building and learning from talented senior engineers.\nWorking with large quantities of data at both Citi and my current Northern Labs, I most enjoyed the time I spent performing adhoc analysis of the data I was using to build applications on top of. Spending extra hours chatting with the quantitative engineers about potential uses of data, I realized my real passion was in Data Science, and the application development was more of a distraction. With that in mind - as well as a growing distaste for the financial field and a burning desire to move to the West Coast - I pursued a masters in data science at UBC, in order to develop my data analysis skills and apply them to a field I’m more passionate about. My current passion is public health - I believe healthcare should be affordable and accessible to all and am excited to work for companies that are aligned with that goal."
   },
   {
     "objectID": "pages/about.html#education",
