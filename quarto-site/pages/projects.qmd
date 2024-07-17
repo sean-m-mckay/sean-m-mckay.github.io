@@ -1,0 +1,58 @@
+---
+pagetitle: Projects | Sean McKay
+title: "Projects"
+subtitle: "Below a selection of some technical projects I worked on"
+---
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/tbtracker_logo.png)](https://dsci-532-2024-1-tbtracker.onrender.com/)
+::::
+
+:::: {.card-content}
+##### [Python Dashboard](https://dsci-532-2024-1-tbtracker.onrender.com/)
+A Dash dashboard that explores trends in TB Incidence and Mortality across different countries (page may take a while to load)
+
+:::{.card-date}
+April, 2024
+:::
+::::
+::::::
+
+
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/ice-skates.jpg)](https://github.com/luceliu/rink-riffler/tree/main)
+::::
+
+:::: {.card-content}
+##### [React App](https://github.com/luceliu/rink-riffler/tree/main)
+A react app that allowed easier booking of Skating rink reservations in Toronto during COVID.
+
+:::{.card-date}
+April, 2024
+:::
+::::
+::::::
+
+
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/pinpointrlogo-250x129.png)](https://github.com/kippmr/pinpointr)
+::::
+
+:::: {.card-content}
+##### [Android App](https://github.com/kippmr/pinpointr)
+An android app that provides geolocation and automatic classification of campus maintenance issues
+More details on : https://ecce.esri.ca/mac-blog/2019/07/03/pinpointr/
+
+:::{.card-date}
+Feb, 2024
+:::
+::::
+::::::

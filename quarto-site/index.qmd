@@ -1,7 +1,34 @@
 ---
-title: "Sean McKay"
+pagetitle: Sean McKay
+toc: false
+about:
+  template: solana
+  image-width: 20em
+  image-shape: round
+  image: /img/portrait.jpg
+
 ---
 
-This is a Website about Sean McKay
+<div class="mytitle">
+SEAN MCKAY
+</div>
 
-Software engineer, current Master's of Data science student at UBC Vancouver. Enjoys being outdoors, in the mountains or forests. Connect with me [here](https://www.linkedin.com/in/sean-mckay-6012b1b9/)
+> Data Scientist, previously Software Engineer
+
+---
+
+I am currently a Master of Data Science student at the University of British Columbia (UBC).
+
+
+<div class="buttons">
+Read about some of my previous projects:\
+[Projects](pages/projects.qmd)
+</div>
+
+
+<div class="buttons">
+Learn more about me:\
+[Whoami](pages/about.qmd)
+</div>
+
+---

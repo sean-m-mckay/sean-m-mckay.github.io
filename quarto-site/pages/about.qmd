@@ -1,0 +1,48 @@
+---
+pagetitle: Whoami | Sean McKay
+title: "Whoami"
+---
+
+**Intro :** TODO
+
+## Education
+![](../img/education.jpg){fig-align="center" class="whoami-page-image"}
+
+#### Master of Data Science (UBC)
+(2023 - 2024)
+
+- **Capstone Project:** Develop a Machine Learning Pipeline to Classify elementary particles (Pions and Muons)
+- **Key Topics:** Classification, Cloud Computing (AWS, Spark), Clustering, Data Visualization, Databases (SQL and NoSQL), Natural Language Processing, Neural Networks, Regression, Software Development (CI/CD, Unit Testing), Statistical Inference, Time Series & Temporal Models
+   
+
+#### Bachelor of Applied Science in Computer Science (McMaster University)
+(2014 - 2019)
+
+- **Capstone Project:** Develop an App using Machine Learning to Classify and locate facility issues on Campus
+- **Key Topics:** Software Design, Databases, Algorithms, Networks and Security, Compilers, Operating Systems, Game Design (Unity and OpenGL), Assembly
+   
+
+## Work Experience
+![](../img/work.jpg){fig-align="center" class="whoami-page-image"}
+
+#### Software Developer (Northern Labs, Toronto ON)
+(Sept 2022- Aug 2023)
+
+During my year at Northern Labs I led the development of a Market Data ingestion pipeline for storing data that quantitative analysts could use for backtesting their trading strategies. I also worked on a real-time pricing and volatility engine used as input for the trading engine. Additionally I spent time redesigning the authentication platform for the trading engine.
+
+#### Senior Software Developer (Citi, Mississauga ON)
+(June 2019 - July 2022)
+
+I joined Citi as part of their rotational program on the Loans team, where I overhauled the CI/CD system they used to deploy components for managing loans. I then worked as lead on the initial development of an ETL framework to move customer and transaction data to a new system (LoanIQ).
+
+After a year I moved to the ISG team where I worked on a real-time trade analysis software, developing a tool using Storm and Spark to consume client orders for analysis. I led development efforts when we migrated the analysis to using a database (Kinetica) - developing SQL scripts and working closely with the business and database client teams to resolve technical issues.
+
+#### Programming Intern (Ontario Financing Authority, Toronto ON)
+(May 2017 - Aug 2018)
+
+During this internship I worked on developing financial software for use by internal clients, writing SQL scripts and working with C#. I also developed a tool for HR to use during the onboarding and offboarding process. 
+
+## Hobbies and Interests
+![](../img/outdoor.jpg){fig-align="center" class="whoami-page-image"}
+
+I try to spend as much time as possible away from the keyboard outside. My current interests are running, rock climbing and backcountry skiing - I'm trying to dabble in mountaineering. When I am forced indoors by weather or other extenuating circumstances I enjoy reading and playing board games.

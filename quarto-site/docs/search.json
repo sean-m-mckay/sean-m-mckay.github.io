@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Python Dashboard\nA Dash dashboard that explores trends in TB Incidence and Mortality across different countries (page may take a while to load)\n\nApril, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReact App\nA react app that allowed easier booking of Skating rink reservations in Toronto during COVID.\n\nApril, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAndroid App\nAn android app that provides geolocation and automatic classification of campus maintenance issues More details on : https://ecce.esri.ca/mac-blog/2019/07/03/pinpointr/\n\nFeb, 2024"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sean McKay",
+    "section": "",
+    "text": "SEAN MCKAY\n\n\nData Scientist, previously Software Engineer\n\n\nI am currently a Master of Data Science student at the University of British Columbia (UBC).\n\nRead about some of my previous projects:\nProjects\n\n\nLearn more about me:\nWhoami"
+  },
+  {
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "Whoami",
+    "section": "",
+    "text": "Intro : TODO"
+  },
+  {
+    "objectID": "pages/about.html#education",
+    "href": "pages/about.html#education",
+    "title": "Whoami",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\nMaster of Data Science (UBC)\n(2023 - 2024)\n\nCapstone Project: Develop a Machine Learning Pipeline to Classify elementary particles (Pions and Muons)\nKey Topics: Classification, Cloud Computing (AWS, Spark), Clustering, Data Visualization, Databases (SQL and NoSQL), Natural Language Processing, Neural Networks, Regression, Software Development (CI/CD, Unit Testing), Statistical Inference, Time Series & Temporal Models\n\n\n\nBachelor of Applied Science in Computer Science (McMaster University)\n(2014 - 2019)\n\nCapstone Project: Develop an App using Machine Learning to Classify and locate facility issues on Campus\nKey Topics: Software Design, Databases, Algorithms, Networks and Security, Compilers, Operating Systems, Game Design (Unity and OpenGL), Assembly"
+  },
+  {
+    "objectID": "pages/about.html#work-experience",
+    "href": "pages/about.html#work-experience",
+    "title": "Whoami",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\n\n\n\n\nSoftware Developer (Northern Labs, Toronto ON)\n(Sept 2022- Aug 2023)\nDuring my year at Northern Labs I led the development of a Market Data ingestion pipeline for storing data that quantitative analysts could use for backtesting their trading strategies. I also worked on a real-time pricing and volatility engine used as input for the trading engine. Additionally I spent time redesigning the authentication platform for the trading engine.\n\n\nSenior Software Developer (Citi, Mississauga ON)\n(June 2019 - July 2022)\nI joined Citi as part of their rotational program on the Loans team, where I overhauled the CI/CD system they used to deploy components for managing loans. I then worked as lead on the initial development of an ETL framework to move customer and transaction data to a new system (LoanIQ).\nAfter a year I moved to the ISG team where I worked on a real-time trade analysis software, developing a tool using Storm and Spark to consume client orders for analysis. I led development efforts when we migrated the analysis to using a database (Kinetica) - developing SQL scripts and working closely with the business and database client teams to resolve technical issues.\n\n\nProgramming Intern (Ontario Financing Authority, Toronto ON)\n(May 2017 - Aug 2018)\nDuring this internship I worked on developing financial software for use by internal clients, writing SQL scripts and working with C#. I also developed a tool for HR to use during the onboarding and offboarding process."
+  },
+  {
+    "objectID": "pages/about.html#hobbies-and-interests",
+    "href": "pages/about.html#hobbies-and-interests",
+    "title": "Whoami",
+    "section": "Hobbies and Interests",
+    "text": "Hobbies and Interests\n\n\n\n\n\nI try to spend as much time as possible away from the keyboard outside. My current interests are running, rock climbing and backcountry skiing - I’m trying to dabble in mountaineering. When I am forced indoors by weather or other extenuating circumstances I enjoy reading and playing board games."
+  }
+]

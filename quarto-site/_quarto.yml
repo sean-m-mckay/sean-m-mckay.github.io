@@ -1,19 +1,31 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "quarto-site"
+  title: "Sean McKay"
   navbar:
+    background: primary
+    search: true
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sean-mckay-6012b1b9/
+      - icon: github
+        href: https://github.com/sean-m-mckay
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: pages/about.qmd
+        text: Whoami
+      - href: pages/projects.qmd
+        text: Projects
+  page-footer: 
+    left: "Copyright 2024, Sean McKay" 
 
 format:
   html:
-    theme: cosmo
+    theme: lux 
     css: styles.css
     toc: true
-
-
-
+    toc-depth: 3
+    code-fold: true
