@@ -1,7 +1,7 @@
 ---
 pagetitle: Projects | Sean McKay
 title: "Projects"
-subtitle: "Below a selection of some technical projects I worked on"
+subtitle: "A selection of technical projects"
 ---
 
 
@@ -11,7 +11,7 @@ subtitle: "Below a selection of some technical projects I worked on"
 ::::
 
 :::: {.card-content}
-##### [Python Dashboard](https://dsci-532-2024-1-tbtracker.onrender.com/)
+##### [TB-Tracker](https://dsci-532-2024-1-tbtracker.onrender.com/)
 A Dash dashboard that explores trends in TB Incidence and Mortality across different countries (page may take a while to load)
 
 :::{.card-date}
@@ -26,8 +26,8 @@ April, 2024
 ::::
 
 :::: {.card-content}
-##### [Medium Article](https://medium.com/@sean.mckay.314/rural-chinese-postman-problem-ultra-optimization-using-networkx-and-osmnx-b245764db2b2)
-A network analysis of the trails in Pacific Spirit Park in order to produce a minimum distance path covering all trails in the park.
+##### [Ultra-optimization](https://medium.com/@sean.mckay.314/rural-chinese-postman-problem-ultra-optimization-using-networkx-and-osmnx-b245764db2b2)
+A medium article, covering a network analysis of the trails in Pacific Spirit Park in order to produce a minimum distance path covering all trails in the park.
 
 :::{.card-date}
 May, 2024
@@ -58,7 +58,7 @@ May, 2024
 ::::
 
 :::: {.card-content}
-##### [React App](https://github.com/luceliu/rink-riffler/tree/main)
+##### [Rink-riffler](https://github.com/luceliu/rink-riffler/tree/main)
 A react app that allowed easier booking of Skating rink reservations in Toronto during COVID.
 
 :::{.card-date}
@@ -76,7 +76,7 @@ April, 2024
 ::::
 
 :::: {.card-content}
-##### [Android App](https://github.com/kippmr/pinpointr)
+##### [Pinpointr](https://github.com/kippmr/pinpointr)
 An android app that provides geolocation and automatic classification of campus maintenance issues.
 More details [here](https://ecce.esri.ca/mac-blog/2019/07/03/pinpointr/)
 
